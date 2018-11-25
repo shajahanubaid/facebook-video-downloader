@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3b5998</color>
+    <color name="colorPrimaryDark">#2e4a84</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNegative">#ff1744</color>
+    <color name="colorNavText">#ffffff</color>
+    <color name="colorSettings">#40000000</color>
+    <color name="colorClick">#abcdef</color>
+    <color name="colorPositive">#212121</color>
+</resources>

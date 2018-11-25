@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "717254171155",
+    "firebase_url": "https://statussaver-27841.firebaseio.com",
+    "project_id": "statussaver-27841",
+    "storage_bucket": "statussaver-27841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717254171155:android:8cc150b4d1d90d8b",
+        "android_client_info": {
+          "package_name": "com.mallutips.shajahan.mallufbdownloder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717254171155-edro1l47tr1d5l589n9p9i0ifq2225qq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mallutips.shajahan.mallufbdownloder",
+            "certificate_hash": "41fc98fbe8a0f441e587f57e1ec391b43dfbd8c5"
+          }
+        },
+        {
+          "client_id": "717254171155-p8kke1mt1fien5i5psd4hc5m210nassi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFiTs1pdTAZwvay4xNBb_D0T7HEYC0bI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717254171155-p8kke1mt1fien5i5psd4hc5m210nassi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3677063464838684~9689488343"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717254171155:android:7cf3d4abe0515594",
+        "android_client_info": {
+          "package_name": "com.techx.fbdownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717254171155-irkfoukf84krhif54ucmb0ovrttq1flq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techx.fbdownloader",
+            "certificate_hash": "41fc98fbe8a0f441e587f57e1ec391b43dfbd8c5"
+          }
+        },
+        {
+          "client_id": "717254171155-p8kke1mt1fien5i5psd4hc5m210nassi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFFiTs1pdTAZwvay4xNBb_D0T7HEYC0bI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717254171155-p8kke1mt1fien5i5psd4hc5m210nassi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
